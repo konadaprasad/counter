@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+  font-family: 'roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.heading {
+  font-size: 40px;
+  color: #2d3a35;
+  font-weight: 800;
+}
+.para {
+  font-size: 16px;
+  color: #2d3a35;
+}
+.span-item {
+  font-size: 40px;
+  color: #c20a72;
+  font-weight: 800;
+}
+.button {
+  border-style: solid;
+  border-width: 0px;
+  height: 50px;
+  width: 100px;
+  color: #ffffff;
+  background-color: #007bff;
+  cursor: pointer;
+  outline: none;
+  align-self: center;
+}
